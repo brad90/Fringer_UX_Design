@@ -52,5 +52,7 @@ One aspect that got me excited was for the ability of the user to connect with p
 
 It could narrow the gap between the audience and the front of the stage. The user would be able to have a closer connection to the perfromer and the performer would eb able to get instantaniou feedback from their audience.
 
-6) Checking out tickets
-The last image would be the page where the user could review their tickets that they have saved. Here they would be able to remove the ticket if they have changed their mind or buy the ticket itself. On pressing the buy button a drop down would show with all the dates and times that show was on. The user would select the time they wanted and then buy the ticket using the button at the bottom.
+<strong>6) Checking out tickets </strong>
+The last image would be the page where the user could review their tickets that they have saved. Here they would be able to remove the ticket if they have changed their mind or buy the ticket itself. 
+
+On pressing the buy button a drop down would show with all the dates and times that show was on. The user would select the time they wanted and then buy the ticket using the button at the bottom.
