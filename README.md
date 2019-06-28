@@ -29,12 +29,13 @@ and the animation of the hand at the bottom which would move in the direction of
 
 <strong> 3) The main page: </strong>
 
-The main page is all about dating the fringe. In the middle would display the event profile in a large format. Here would be shown the shows
-title, potentially the price and potenitally the latest review, all of which the client could decide what would be best.
+The main page is all about dating the fringe. In the middle would display the event profile in a large format. Here would be shown the shows title, potentially the price and potenitally the latest review, all of which the client could decide what would be best.
+
 If the user wanted to know more information about the show, hitting the read more button would remove the "pass" and "watch" button and show more
 details about the show.
 
 Just like the dating app Tinder, the user would be able to swipe left and right to either save the show as something to watch or to pass on the show.
+
 If the person "connected" with the show then this would be saved to their personal directory but remaining on this page the ticket symbol in the top right
 would be updated with a red icon and the number of shows saved. 
 
@@ -50,5 +51,6 @@ The larger main image on the main page would give apel opportunity to add advert
 One aspect that got me excited was for the ability of the user to connect with performer of the show. If a user bought a ticket then soon after the show had finished, a group connection between the users who viewed the shows and the performer would open up and they would be able to directly leave reviews. 
 
 It could narrow the gap between the audience and the front of the stage. The user would be able to have a closer connection to the perfromer and the performer would eb able to get instantaniou feedback from their audience.
-64) Checking out tickets
+
+6) Checking out tickets
 The last image would be the page where the user could review their tickets that they have saved. Here they would be able to remove the ticket if they have changed their mind or buy the ticket itself. On pressing the buy button a drop down would show with all the dates and times that show was on. The user would select the time they wanted and then buy the ticket using the button at the bottom.
