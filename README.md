@@ -44,3 +44,12 @@ done in the settings and would then only ever show comedies on the main profile 
 3) The main page - advertisement:
 
 The larger main image on the main page would give apel opportunity to add advertisement. Both static images and videos would be able to render in this section allowing the buiness to gain income from ads/sponsors.
+
+4)Connecting with the shows performer:
+
+One aspect that got me excited was for the ability of the user to connect with performer of the show. If a user bought a ticket then soon after the show had finished, a group connection between the users who viewed the shows and the performer would open up and they would be able to directly leave reviews. 
+
+It could narrow the gap between the audience and the front of the stage. The user would be able to have a closer connection to the perfromer and the performer would eb able to get instantaniou feedback from their audience.
+
+4) Checking out tickets
+The last image would be the page where the user could review their tickets that they have saved. Here they would be able to remove the ticket if they have changed their mind or buy the ticket itself. On pressing the buy button a drop down would show with all the dates and times that show was on. The user would select the time they wanted and then buy the ticket using the button at the bottom.
