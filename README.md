@@ -42,3 +42,5 @@ The would also be a settings function that would allow the user to specify what 
 done in the settings and would then only ever show comedies on the main profile page.
 
 3) The main page - advertisement:
+
+The larger main image on the main page would give apel opportunity to add advertisement. Both static images and videos would be able to render in this section allowing the buiness to gain income from ads/sponsors.
